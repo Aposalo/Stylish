@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Stylish</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="username_or_email">Username or Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="please_wait">Please wait…</string>
+</resources>
